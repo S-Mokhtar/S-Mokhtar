@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaimaa Mukhtar</h1>
+<h1 align="center">Hi 👋, I'm Shaimaa Mokhtar</h1>
 <h3 align="center">A passionate web developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-mokhtar&label=Profile%20views&color=0e75b6&style=flat" alt="s-mokhtar" /> </p>
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shaimaamukhtar177@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F7e4oKut5EDxPouH8Ol868aaqV4jBLuT/view?usp=sharing](https://drive.google.com/file/d/1F7e4oKut5EDxPouH8Ol868aaqV4jBLuT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tXLa2lPgDrpedHJp3YweSiGibJI_3x4x/view?usp=sharing](https://drive.google.com/file/d/1tXLa2lPgDrpedHJp3YweSiGibJI_3x4x/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
